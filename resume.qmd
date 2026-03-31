@@ -1,55 +1,48 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Astoria Carroll's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Astoria Carroll
+Data Scientist, Analyst, Consultant.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
+<a href="car20132@byui.edu">car20132@byui.edu</a>
+| <a href="http://en.wikipedia.org/wiki/Astoria_Carroll">My wikipedia page</a>
+<!-- | <a href="https://NAC-Astoria.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Gaining a degree in data science.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data science.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Analyisng cost trends.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - 2021`
+__El Toro High School.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2021 - now`
+__Brigham Young University - Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2019`
+3rd place in Regonal marching band competition.
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
@@ -59,33 +52,27 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+None yet.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+None yet.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2024 - now`
+__McDonald's__, Rexburg, Idaho
 
-- Warden
-- Minted coins
+- Crew Trainer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2023 - 2023`
+__Veritas__, Mareitta, Ohio
+
+- After school care provider
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
